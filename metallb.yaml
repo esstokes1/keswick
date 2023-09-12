@@ -1833,5 +1833,6 @@ metadata:
   name: first-pool
   namespace: metallb-system
 spec:
+  protocol: layer2
   addresses:
   - 172.16.188.250-172.16.188.254
