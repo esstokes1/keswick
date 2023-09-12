@@ -1834,4 +1834,4 @@ metadata:
   namespace: metallb-system
 spec:
   addresses:
-  - 172.16.188.240-172.16.188.254
+  - 172.16.188.250-172.16.188.254
